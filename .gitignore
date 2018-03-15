@@ -1,4 +1,12 @@
-/.idea
 /.vertx
-/target
-/*.iml
+.DSStore
+target
+.settings
+.classpath
+.project
+.idea/
+*.iml
+~$*.ppt
+node_modules/
+package-lock.json
+dist
