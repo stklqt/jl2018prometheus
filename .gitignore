@@ -10,3 +10,5 @@ target
 node_modules/
 package-lock.json
 dist
+jl2018prometheus_bins.zip
+jl2018prometheus_bins
